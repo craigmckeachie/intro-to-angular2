@@ -5,3 +5,4 @@ import {Component} from "angular2/core";
     template: `<div>I'm a todo input</div>`
 })
 export class TodoInput{}
+

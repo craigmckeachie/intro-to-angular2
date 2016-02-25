@@ -1,4 +1,4 @@
-//import "./lessons/01-hello-world/main";
+import "./lessons/01-hello-world/main";
 //import "./lessons/02-first-component/main";
 //import "./lessons/03-events-and-refs/main";
 //import "./lessons/04-events-in-depth/main";
@@ -17,4 +17,4 @@
 //import "./lessons/17-selecting-pipe-params/main";
 //import "./lessons/18-search-pipe/main";
 //import "./lessons/19-organization/main";
-import "./lessons/20-recap-and-whats-next/main";
+//import "./lessons/20-recap-and-whats-next/main";
